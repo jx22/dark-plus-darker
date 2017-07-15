@@ -1,36 +1,8 @@
-# Sunset Theme
+# dark+ darker
 
-This theme provides color customization for all the main components of vscode:
-* `editor`
-* `peek view`
-* `status bar`
-* `activity bar`
-* `panels`
-* `etc ...`
+A settings.json file for [Visual Studio Code](https://github.com/Microsoft/vscode) that draws from Swiiip's [Sunset Theme](https://github.com/Swiiip/sunset-theme-vscode).
 
-Following screens use [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) icon theme
-
-[Github repository](https://github.com/Swiiip/sunset-theme-vscode.git)
-
-All comments/improvements are welcome !
+I made this because the default Dark+ theme had gotten boring and just wasn't dark enough for my taste anymore. I searched and searched for VSCode extensions that looked better, and I didn't find any that I totally liked. So I went backward and just used a portion of of the color customizations in Sunset Theme to override Dark+.
 
 # Overview
 ![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/general.png)
-
-# Languages
-## Python
-![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/python.png)
-## C-Sharp
-![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/csharp.png)
-## Go
-![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/go.png)
-## Rust
-![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/rust.png)
-## Typescript
-![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/typescript.png)
-
-# Command palette
-![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/ctrlp.png)
-
-# Sidebar
-![alt](https://raw.githubusercontent.com/Swiiip/sunset-theme-vscode/master/images/sidebar.png)
