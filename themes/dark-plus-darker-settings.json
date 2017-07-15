@@ -1,0 +1,49 @@
+{  
+
+"zenMode.hideStatusBar": true,
+
+"workbench.statusBar.visible": false,
+"workbench.colorTheme": "Default Dark+",
+
+"workbench.colorCustomizations": {
+            "activityBar.background": "#121110",    
+            "activityBar.foreground": "#fcfcf2",
+            "activityBarBadge.background": "#fcfcf2",
+            "activityBarBadge.foreground": "#262327",
+            "button.foreground": "#121110",
+            "editor.background": "#121110",
+            "editorBracketMatch.background": "#FF0000",
+            "editorBracketMatch.border": "#3344F0",
+            "editorCursor.foreground": "#d9d9d9",
+            "editorGroup.background": "#121110",
+            "editorGroupHeader.tabsBackground": "#121110",
+            "editor.lineHighlightBackground": "#262327",
+            "editor.lineHighlightBorder": "#262327",
+            "editorSuggestWidget.background": "#121110",
+            "extensionButton.prominentForeground": "#121110",
+            "list.activeSelectionForeground": "#121110",
+            "notification.background": "#121110",
+            "notification.buttonForeground": "#121110",              "peekViewResult.background": "#121110",
+            "sideBar.background": "#121110",
+            "sideBarSectionHeader.background": "#262327",
+            "tab.activeBackground": "#121110",
+            "tab.inactiveBackground": "#121110",
+            "titleBar.activeBackground": "#121110", 
+},
+
+"files.autoSave": "afterDelay",
+"files.autoSaveDelay": 10,
+"files.hotExit": "onExitAndWindowClose",
+ 
+"editor.wordWrap": "bounded",
+"editor.wordWrapColumn": 80,
+"editor.fontSize": 14,
+"editor.fontFamily": "SF Pro Text, Droid Sans Mono, Inconsolata, Consolas,  Monaco, Roboto, Menlo, Courier New, monospace",
+"editor.lineHeight": 28,
+
+"editor.minimap.enabled": true,
+"editor.cursorStyle": "block",
+"editor.cursorBlinking": "solid",
+"editor.minimap.showSlider":"always",
+
+}
