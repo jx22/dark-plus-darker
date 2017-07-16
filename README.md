@@ -13,4 +13,4 @@ The look is about preventing distractions while still calling attention to thing
 
 ## installation
 
-Clone the [JSON file](https://github.com/jx22/dark-plus-darker/blob/master/themes/dark-plus-darker-settings.json) or copy its contents and put it in your settings.json file, which should be located in the .vscode directory that you're working in.
+Clone the [JSON file](https://github.com/jx22/dark-plus-darker/blob/master/themes/dark-plus-darker-settings.json) or copy its contents and put it in your settings.json file, which should be located in the .vscode subdirectory of your current directory. If you haven't made a settings.json file for your current directory yet, open settings from the menu or command palette and start adding to that JSON file.
