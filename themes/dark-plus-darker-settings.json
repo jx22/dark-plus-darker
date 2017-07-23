@@ -5,7 +5,7 @@
 "workbench.statusBar.visible": false,
 "workbench.colorTheme": "Default Dark+",
 
-// for more contrast (better during daytime), replace all instances of #999999 with #fcfcf2
+// for a more subtle appearance (better at night), replace all instances of #fcfcf2 with #999999
 "workbench.colorCustomizations": {
             "activityBar.background": "#121110",    
             "activityBar.foreground": "#fcfcf2",
