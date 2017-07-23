@@ -23,6 +23,7 @@
             "editorGroupHeader.tabsBackground": "#121110",
             "editor.lineHighlightBackground": "#262327",
             "editor.lineHighlightBorder": "#262327",
+            "editorLink.activeForeground": "#999797",
             "editor.selectionBackground": "#5b5b5b",
             "editorSuggestWidget.background": "#121110",
             "extensionButton.prominentForeground": "#121110",
@@ -49,7 +50,7 @@
 "editor.wordWrap": "bounded",
 "editor.wordWrapColumn": 80,
 "editor.fontSize": 14,
-"editor.fontFamily": "SF Pro Text, Droid Sans Mono, Inconsolata, Consolas,  Monaco, Roboto, Menlo, Courier New, monospace",
+"editor.fontFamily": "Hasklig, SF Pro Text, Consolas, Monaco, Roboto Mono, Menlo",
 "editor.lineHeight": 28,
 
 "editor.minimap.enabled": true,

@@ -2,6 +2,7 @@
 
 ## [0.0.2]
 - Release date: July 22, 2017
+- Improved the foreground of links in the editor
 - Improved the background in the search box
 - Improved the background of the selected item in command palette
 - Improved the background of selections in the editor
