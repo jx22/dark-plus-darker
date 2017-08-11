@@ -9,7 +9,7 @@ A settings.json file for [Visual Studio Code](https://github.com/Microsoft/vscod
 
 I made this because the default Dark+ theme had gotten boring and just wasn't dark enough for my taste anymore. I searched and searched for VSCode extensions that looked better, and I didn't find any that I totally liked. So I went backward and just used a portion of the color customizations in Sunset Theme to override Dark+.
 
-The look is about preventing distractions while still calling attention to things like search results, parentheses, Markdown headers, and of course the cursor. The font shown in the screenshot is Apple's [San Francisco](https://developer.apple.com/fonts/) system font.
+The look is about preventing distractions while still calling attention to things like search results, parentheses, Markdown headers, and of course the cursor. The font shown in the screenshot is [Hasklig](https://github.com/i-tu/Hasklig).
 
 ## installation
 

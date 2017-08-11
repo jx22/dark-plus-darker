@@ -1,12 +1,6 @@
 {  
-
-"zenMode.hideStatusBar": true,
-
-"workbench.statusBar.visible": false,
-"workbench.colorTheme": "Default Dark+",
-
-// for a more subtle appearance (better at night), replace all instances of #fcfcf2 with #999999
-"workbench.colorCustomizations": {
+    // for a more subtle appearance (better at night), replace all instances of #fcf cf2 with #999 999
+    "workbench.colorCustomizations": {
             "activityBar.background": "#121110",    
             "activityBar.foreground": "#fcfcf2",
             "activityBarBadge.background": "#262327",
@@ -16,7 +10,7 @@
             "editorBracketMatch.background": "#FF0000",
             "editorBracketMatch.border": "#3344F0",
             "editorCursor.foreground": "#fcfcf2",
-            "editor.findMatchBackground": "#d1480e",
+            "editor.findMatchBackground": "#8c290e",
             "editor.findMatchHighlightBackground": "#176d61",
             "editor.foreground": "#fcfcf2",
             "editorGroup.background": "#121110",
@@ -26,36 +20,47 @@
             "editorLink.activeForeground": "#999797",
             "editor.selectionBackground": "#5b5b5b",
             "editorSuggestWidget.background": "#121110",
+            "errorForeground": "#fcfcf2",
             "extensionButton.prominentForeground": "#121110",
             "input.background": "#262327",
             "input.foreground": "#fcfcf2",
-            "list.activeSelectionForeground": "#121110",
+            "inputOption.activeBorder": "#fcfcf2",            "list.activeSelectionForeground": "#121110",
             "list.activeSelectionBackground": "#8e8e7f",
             "list.focusBackground": "#3f3f47",
             "notification.background": "#121110",
-            "notification.buttonForeground": "#121110","peekViewResult.background": "#121110",
+            "notification.buttonBackground": "#777777",
+            "notification.buttonForeground": "#121110",
+            "notification.infoBackground": "#777777",
+            "peekView.border": "#fcfcf2",
+            "peekViewResult.background": "#121110",
+            "pickerGroup.border": "#fcfcf2",
+            "pickerGroup.foreground": "#fcfcf2",
             "sideBar.background": "#121110",
-            "sideBar.foreground": "#fcfcf2",     
-            "sideBarTitle.foreground": "#fcfcf2",
-           "tab.activeBackground": "#121110",
-           "tab.activeForeground": "#d6d6d6",
-           "tab.inactiveBackground": "#121110",
-           "titleBar.activeBackground": "#121110", 
-},
-
-"files.autoSave": "afterDelay",
-"files.autoSaveDelay": 10,
-"files.hotExit": "onExitAndWindowClose",
- 
-"editor.wordWrap": "bounded",
-"editor.wordWrapColumn": 80,
-"editor.fontSize": 14,
-"editor.fontFamily": "Hasklig, SF Pro Text, Consolas, Monaco, Roboto Mono, Menlo",
-"editor.lineHeight": 28,
-
-"editor.minimap.enabled": true,
-"editor.cursorStyle": "block",
-"editor.cursorBlinking": "solid",
-"editor.minimap.showSlider":"always",
-
-}
+            "sideBar.foreground": "#fcfcf2",                 "sideBarTitle.foreground": "#fcfcf2",
+            "tab.activeBackground": "#121110",
+            "tab.activeForeground": "#d6d6d6",
+            "tab.inactiveBackground": "#121110",
+            "titleBar.activeBackground": "#121110", 
+            "titleBar.activeForeground": "#747474"
+    },
+    
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "Hasklig, SF Pro Text, Consolas, Monaco, Roboto Mono, Menlo",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 28,
+    "editor.minimap.enabled": true,
+    "editor.minimap.showSlider":"always",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 80,
+    
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10,
+    "files.hotExit": "onExitAndWindowClose",
+        
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.fontAliasing":"antialiased",
+    "workbench.statusBar.visible": false,
+    
+    "zenMode.hideStatusBar": true,
+    }
