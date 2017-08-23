@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.5]
+Release date: August 22, 2017
+- Sort of a game changer: Improved the appearance of the underlying letter that the cursor is currently hovering over
+- Improved the foreground of search matches in the Command Palette and IntelliSense auto-complete suggestions [experimental]
+- Improved the background color of selected text in the Command Palette, the search widget, and the find widget [experimental]
+- Improved the foreground and background of error alerts in notifications
+- Improved the background color of information alerts in notifications
+
 ## [0.0.4]
 Release date: August 19, 2017
 - A release aimed at improving the programming experience
@@ -18,7 +26,7 @@ Release date: August 11, 2017
 - Improved notification button background
 - Improved the foreground of errors in the search box
 - Improved the border for activated options in the search box
-- Improved the color of categories like "recently opened," "recently used" and "other commands" in the Command Palette
+- Improved the color of categories like "recently opened," "recently used," and "other commands" in the Command Palette
 - Alphabetized settings.json customizations
 
 ## [0.0.2]
@@ -27,7 +35,7 @@ Release date: July 22, 2017
 - Improved the background in the search box
 - Improved the background of the selected item in the Command Palette
 - Improved the background of selections in the editor
-- Improved the background of the selection made with the mouse in the file explorer
+- Improved the background of the selection made with the mouse in the explorer
 - Improved the background of current match and all other matches for searches in the editor [experimental]
 
 ## [0.0.1]
