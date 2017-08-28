@@ -1,5 +1,5 @@
 {  
-    // for a more subtle appearance (better at night), replace all instances of #fcf cf2 with #999 999
+    // for a more subtle appearance (better at night), replace all instances of #fcfcf2 with #999999
     "workbench.colorCustomizations": {
             "activityBar.background": "#121110",    
             "activityBar.foreground": "#fcfcf2",
