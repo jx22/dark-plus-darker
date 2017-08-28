@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.6]
+Release date: August 27, 2017
+- Improved the colors that show up in the gutter to indicate modifications, additions and deletions of certain lines
+- Improved the foreground of the overview ruler that sits at the right edge of the editor
+- Improved the background of buttons
+- Improved the foreground, background and border of dropdown menus
+
 ## [0.0.5]
 Release date: August 22, 2017
 - Sort of a game changer: Improved the appearance of the underlying letter that the cursor is currently hovering over

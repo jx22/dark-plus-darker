@@ -3,13 +3,14 @@
 A settings.json file for [Visual Studio Code](https://github.com/Microsoft/vscode) that draws from Swiiip's [Sunset Theme](https://github.com/Swiiip/sunset-theme-vscode).
 
 ## screenshot
+
 ![alt](https://raw.githubusercontent.com/jx22/dark-plus-darker/master/images/dark-plus-darker-screenshot-5.png)
 
 ## concept
 
 I made this because the default Dark+ theme had gotten boring and just wasn't dark enough for my taste anymore. I searched and searched for VSCode extensions that looked better, and I didn't find any that I totally liked. So I went backward and just used a portion of the color customizations in Sunset Theme to override Dark+.
 
-The look is about preventing distractions while still calling attention to things like search results, parentheses, Markdown headers, and of course the cursor. The font shown in the screenshot is [Hasklig](https://github.com/i-tu/Hasklig).
+The look is about preventing distractions while still calling attention to things like search results, parentheses, changes to lines, Markdown headers, and of course the cursor. The font shown in the screenshot is [Hasklig](https://github.com/i-tu/Hasklig).
 
 ## installation
 
