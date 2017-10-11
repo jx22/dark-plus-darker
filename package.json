@@ -2,6 +2,13 @@
   "name": "dark-plus-darker",
   "description": "Settings to make the VSCode Dark+ (default dark) theme darker",
   "version": "0.0.7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jx22/dark-plus-darker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jx22/dark-plus-darker/issues"
+  },
   "dependencies": {
     "vscode": "^1.17.1",
   }
