@@ -3,7 +3,6 @@
   "description": "Settings to make the VSCode Dark+ (default dark) theme darker",
   "version": "0.0.7",
   "dependencies": {
-    "code": "Microsoft/vscode",
-    "Sunset theme": "Swiiip/sunset-theme-vscode"
+    "vscode": "^1.17.1",
   }
 }
