@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.7]
+Release date: October 11, 2017
+- Improved the color of warning squigglies following VSCode 1.17 release https://code.visualstudio.com/updates/v1_17#_coloring-of-warning-squigglies
+- Improved the bottom border below the active tab following VSCode 1.16 release https://code.visualstudio.com/updates/v1_16#_theming-improvements
+- Improved the foreground and background of notification warning signs
+- Added a setting to more easily hide all tabs except for the one being used.
+
 ## [0.0.6]
 Release date: August 27, 2017
 - Improved the colors that show up in the gutter to indicate modifications, additions and deletions of certain lines
