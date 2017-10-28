@@ -1,4 +1,4 @@
-# dark + darker!
+# dark plus darker!
 
 A settings.json file for [Visual Studio Code](https://github.com/Microsoft/vscode) that draws from Swiiip's [Sunset Theme](https://github.com/Swiiip/sunset-theme-vscode).
 
