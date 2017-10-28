@@ -4,7 +4,7 @@ A settings.json file for [Visual Studio Code](https://github.com/Microsoft/vscod
 
 ## screenshot
 
-![alt](https://raw.githubusercontent.com/jx22/dark-plus-darker/master/images/Dark-plus-darker-screenshot-6.png)
+![alt](https://raw.githubusercontent.com/jx22/dark-plus-darker/master/images/Dark-plus-darker-screenshot-7.png)
 
 ## concept
 
