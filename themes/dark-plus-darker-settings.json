@@ -78,12 +78,18 @@
     
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
-    "editor.fontFamily": "Hasklig, SF Pro Text, Consolas, Monaco, Roboto Mono, Menlo",
+    "editor.fontFamily": "Iosevka, Envy Code R, Hasklig, SF Pro Text, Consolas, Monaco, Roboto Mono, Menlo",
+    "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "editor.lineHeight": 28,
     "editor.minimap.enabled": true,
     "editor.minimap.showSlider":"always",
     "editor.smoothScrolling": true,
+    "editor.tokenColorCustomizations": {
+            "comments": "#009685",
+            "strings": "#999797",
+            "numbers": "#984A4A",
+    },
     "editor.wordWrap": "bounded",
     "editor.wordWrapColumn": 80,
     
@@ -97,4 +103,5 @@
     "workbench.statusBar.visible": false,
     
     "zenMode.hideStatusBar": true,
+    "zenMode.hideTabs": true,        
     }

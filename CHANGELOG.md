@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.8]
+Release date: October 28, 2017
+- Improved the color of Markdown link text snippets (in brackets) and other strings
+- Improved the color of comments
+- Improved the color of numbers that appear in certain file types, like JSON
+- Enabled support by default for ligatures, which work in fonts like DejaVu Sans Code, Fira Code, Fixedsys Excelsior, Hasklig, Iosevka and Monoid
+
 ## [0.0.7]
 Release date: October 11, 2017
 - Improved the color of warning squigglies following VSCode [1.17 release](https://code.visualstudio.com/updates/v1_17#_coloring-of-warning-squigglies)
@@ -16,7 +23,7 @@ Release date: August 27, 2017
 
 ## [0.0.5]
 Release date: August 22, 2017
-- Sort of a game changer: Improved the appearance of the underlying letter that the cursor is currently hovering over
+- *Sort of a game changer:* Improved the appearance of the underlying letter that the cursor is currently hovering over
 - Improved the foreground of search matches in the Command Palette and IntelliSense auto-complete suggestions [experimental]
 - Improved the background color of selected text in the Command Palette, the search widget, and the find widget [experimental]
 - Improved the foreground and background of error alerts in notifications
@@ -24,7 +31,9 @@ Release date: August 22, 2017
 
 ## [0.0.4]
 Release date: August 19, 2017
-- A release aimed at improving the programming experience
+
+A release aimed at improving the programming experience.
+
 - Improved the border of the text box that's currently in focus, for example the Command Palette
 - Improved the border of peek view definitions
 - Improved the background color of peek view results
