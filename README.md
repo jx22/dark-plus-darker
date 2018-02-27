@@ -10,7 +10,7 @@ A settings.json file for [Visual Studio Code](https://github.com/Microsoft/vscod
 
 I made this because the default Dark+ theme had gotten boring and just wasn't dark enough for my taste anymore. I searched and searched for VSCode extensions that looked better, and I didn't find any that I totally liked. So I went backward and just used a portion of the color customizations in Sunset Theme to override Dark+.
 
-The look is about preventing distractions while still calling attention to things like search results, parentheses, changes to lines, Markdown headers, and of course the cursor. The font shown in the screenshot is [Iosevka](https://github.com/be5invis/Iosevka).
+The look is about preventing distractions while still calling attention to things like search results, parentheses, changes to lines, Markdown headers, and of course the cursor. The font shown in the screenshot is [Iosevka](https://github.com/be5invis/Iosevka). The file icon theme is [Studio Icons](https://github.com/jtlowe/studio-icons).
 
 ## installation
 

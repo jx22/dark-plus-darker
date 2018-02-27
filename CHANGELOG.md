@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.0.9]
+Release date: February 26, 2018
+- Improved the color of line numbers
+- Improved the color of inactive tab file names
+- Improved the background color of the option that's currently selected in the suggestion widget
+- Improved the background color of the hover widget
+- Improved the border color of the hover widget
+- Improved the background color of the list or tree items that you hover over with your mouse 
+- Improved the color of the panel border separating the editor from the terminal
+- Improved the color of active and inactive panel titles, which appear in the terminal 
+- Improved the color of terminal text
+- Improved the appearance of shadow under widgets like Find/Replace
+- Improved the background color of badges like search result count
+- Improved the background color for inactive selections in the File Explorer
+- Improved the color of tab borders
+- Improved the background color of widgets like Find/Replace
+- Improved the background color of the scroll bar and the minimap
+- Improved the hover border color for tabs following VSCode [1.20 release](https://code.visualstudio.com/updates/v1_20)
+- Improved the color for indications of untracked and modified Git files following VSCode [1.18 release](https://code.visualstudio.com/updates/v1_18#_git-status-in-file-explorer)
+- Removed support for font ligatures by default as it's not part of a color theme 
+- Gave credit to the Studio Icons file icon theme from @jtlowe in the README
+
 ## [0.0.8]
 Release date: October 28, 2017
 - Improved the color of Markdown link text snippets (in brackets) and other strings
